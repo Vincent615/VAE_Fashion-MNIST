@@ -1,1 +1,1 @@
-98.8 Accuracy
+VAE Model with 98.8% Accuracy
