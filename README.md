@@ -1,1 +1,2 @@
-Simple VAE Model with 98.8% Accuracy
+# VAE_Fashion-MNIST
+**A simple VAE Model with 98.8% Accuracy**
