@@ -8,4 +8,7 @@ train.py is the code to train the model with the Fashion MNIST Dataset. Note tha
 - Pytorch
 - Cuda
 
+## To-Do
+- [ ] Restructure the code
+
 ## Acknowledgment
