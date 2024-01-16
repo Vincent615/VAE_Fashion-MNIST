@@ -9,5 +9,3 @@ train.py is the code to train the model with the Fashion MNIST Dataset. Note tha
 - Cuda
 
 ## Acknowledgment
-
-CMPUT 328, University of Alberta
