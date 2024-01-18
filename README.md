@@ -1,7 +1,7 @@
 # VAE_Fashion-MNIST
-**A simple VAE Model with 98.8% Accuracy**
+**A simple VAE Model** with ~98.8% accuracy on Fashion MNIST Dataset
 
-train.py is the code to train the model with the Fashion MNIST Dataset. Note that the accuracy is different based on the test model.
+train.py is the code to train the model. Note that the accuracy might differ based on the test model's accuracy.
 
 ## Prerequisites
 
