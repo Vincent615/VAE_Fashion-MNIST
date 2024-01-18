@@ -6,6 +6,7 @@ train.py is the code to train the model. Note that the accuracy might differ bas
 ## Prerequisites
 
 - Pytorch
+- Torchvision
 - Cuda
 
 ## To-Do
