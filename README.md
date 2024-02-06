@@ -7,6 +7,8 @@ train.py is the code to train the model. Note that the accuracy might differ bas
 
 - Pytorch
 - Torchvision
+- Matplotlib
+- tqdm
 - Cuda
 
 ## To-Do
